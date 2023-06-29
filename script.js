@@ -1,7 +1,7 @@
 
 document.getElementById("value").value = 23;
 
-let random = Math.floor(Math.random()*5)+1;
+let random = Math.floor(Math.random()*20)+1;
 
 
 let sum = document.getElementById("sumary");
